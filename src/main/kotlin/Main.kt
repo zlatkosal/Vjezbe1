@@ -3,7 +3,7 @@ import kotlin.math.roundToInt
 
 fun main(args: Array<String>) {
     //Zadatak 1: Ispiši svoje ime na konzolu
-    val myname = "Zlatkooooooooo"
+    val myname = "Zlatkosal"
     println("My name is $myname")
 
     //Zadatak 2: ime da bude u navodnicima
