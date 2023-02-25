@@ -13,6 +13,9 @@ fun main(args: Array<String>) {
     println("Two types of slashes: \\ and /")
 
     //zadatak 4: DZ ispiši zeca, spremi svaki red u zasebnu varijablu (asciart)
+    println("(\\(\\")
+    println("(-,-)")
+    println("o_(\")(\")")
 
     //string
     val myName1 ="renato"
